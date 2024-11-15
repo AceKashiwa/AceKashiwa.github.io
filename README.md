@@ -38,4 +38,4 @@ print("Hello World")
 *****
 - - -
 ---------
-![AceKashiwa](https://api.likepoems.com/counter/get/@AceKashiwa?theme=rule34)
+<img src="https://api.likepoems.com/counter/get/@AceKashiwa" alt="name" />
