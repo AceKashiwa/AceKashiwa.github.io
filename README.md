@@ -1,6 +1,6 @@
 ![](https://img.paulzzh.com/touhou/random)
 # AceKashiwa.github.io
-<img src="https://badges.toozhao.com/badges/01JCQEEBNH5AE1XY43BQMJEZ4P/green.svg" />
+
 # Markdown备忘
 
 分段：
@@ -38,3 +38,4 @@ print("Hello World")
 *****
 - - -
 ---------
+[<img src="https://badges.toozhao.com/badges/01JCQEEBNH5AE1XY43BQMJEZ4P/green.svg" />](https://api.likepoems.com/counter/get/@ AceKashiwa?theme= rule34)
