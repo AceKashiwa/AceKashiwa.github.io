@@ -38,4 +38,4 @@ print("Hello World")
 *****
 - - -
 ---------
-[<img src="https://badges.toozhao.com/badges/01JCQEEBNH5AE1XY43BQMJEZ4P/green.svg" />](https://api.likepoems.com/counter/get/@ AceKashiwa?theme= rule34)
+![AceKashiwa](https://api.likepoems.com/counter/get/@name?theme=rule34)
